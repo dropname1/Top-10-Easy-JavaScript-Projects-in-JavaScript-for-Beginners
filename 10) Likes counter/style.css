@@ -1,0 +1,58 @@
+body {
+    background-color: #0f0f0f;
+    color: #F1F1F1;
+    font-family: monospace;
+}
+video {
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.wrapper {
+    display: flex;
+    width: 892px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+h2 {
+    margin-left: 25px;
+}
+.dislike, .like{
+    background-color: #2E2E33;
+    width:85px;
+    height:38px;
+    border-radius: 23px;   
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.like {
+    border-radius: 23px;   
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.like img{
+    margin-left: 7px;
+}
+.dislike img {
+    margin-left: 5px;
+}
+.dislike span {
+    margin-right: 3px;
+}
+.line{
+    height: 38px;
+    width: 1px;
+    background-color: #2E2E33;
+    display: flex;
+}
+.line div {
+    height: 30px;
+    width: 1px;
+    background-color: #414143;
+    margin: auto;
+}
+img {
+    cursor: pointer;
+}

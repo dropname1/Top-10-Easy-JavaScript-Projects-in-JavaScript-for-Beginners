@@ -1,0 +1,15 @@
+.convertWrapper {
+    padding: 5px 0px 2px 10px;
+}
+.dollarImg {
+    margin-right: 2px;
+    position: relative;
+    left: -2px;
+}
+.euroImg {
+    margin-right: 9px;
+}
+.goldImg {
+    position: relative;
+    left: -2px;
+}
