@@ -1,4 +1,4 @@
-# Top-10-Easy-JavaScript-Projects-in-JavaScript-for-Beginners
+# Top-10-Easy-Projects-in-JavaScript-for-Beginners
 
 ![](top%2010%20light%20projects.png)
 
